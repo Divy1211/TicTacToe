@@ -15,9 +15,9 @@
 
 2. Winning
 
-![Wins](https://raw.githubusercontent.com/Divy1211/TicTacToe/e9984506225f461071be4e1fd4cee6f2da80c8ed/images/tie.PNG)
+![Wins](https://raw.githubusercontent.com/Divy1211/TicTacToe/e9984506225f461071be4e1fd4cee6f2da80c8ed/images/win.PNG)
 
 3. Tie
 
-![Check](https://raw.githubusercontent.com/Divy1211/TicTacToe/e9984506225f461071be4e1fd4cee6f2da80c8ed/images/win.PNG)
+![Check](https://raw.githubusercontent.com/Divy1211/TicTacToe/e9984506225f461071be4e1fd4cee6f2da80c8ed/images/tie.PNG)
 
