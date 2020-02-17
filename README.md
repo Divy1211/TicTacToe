@@ -3,7 +3,7 @@
 
 1. This is a two player simple tic tac toe game created in Java
 
-# Prerequisiies
+# Prerequisites
 
 1. You need to install and run this code in Java
 
